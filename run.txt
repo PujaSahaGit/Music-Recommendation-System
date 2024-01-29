@@ -1,0 +1,6 @@
+app.py(new terminal)
+then 
+pip install streamlit(if not installed)
+streamlit run app.py
+{excel-ex.csv()
+jupyter-music recomdation system}(push krte hbe)
